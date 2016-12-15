@@ -1,0 +1,28 @@
+{
+  "name": "papirus",
+  "version": "1.0.0",
+  "description": "PaPiRus ePaper / eInk Screen HAT for Raspberry Pi Javascript Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragongears/papirus.git"
+  },
+  "keywords": [
+    "PaPiRus",
+    "ePaper",
+    "eInk",
+    "Screen",
+    "HAT",
+    "Raspberry",
+    "Pi"
+  ],
+  "author": "Art Dahm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragongears/papirus/issues"
+  },
+  "homepage": "https://github.com/dragongears/papirus#readme"
+}
